@@ -1,3 +1,0 @@
-[submodule "build-tool"]
-	path = build-tool
-	url = https://github.com/smockoro/build-tool.git
